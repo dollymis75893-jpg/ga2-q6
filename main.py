@@ -27,7 +27,7 @@ START_TIME = time.time()
 log_storage = deque(maxlen=1000)
 
 # YAHAN APNA LOGIN EMAIL DALEIN
-MY_EMAIL = "your-email@example.com"
+MY_EMAIL = "24f1001016@ds.study.iitm.ac.in"
 
 # Yeh function HAR request par automatically chalega
 @app.middleware("http")
